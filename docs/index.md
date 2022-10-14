@@ -1,4 +1,3 @@
-
 ---
 layout: home
 ---
@@ -54,7 +53,7 @@ layout: home
   .icont {
     transition:ease-in-out .3s;
     scale:1.3;
-    margin-bottom:60px
+    margin-bottom:50px
   }
   .icont:hover {
     filter: drop-shadow(2px 5px 5px #CD7F32);
