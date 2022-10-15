@@ -12,8 +12,8 @@ export const sidebar = {
         {
             text: "Guide",
             items: [
-              { text: "Getting Started", link: "/i18n/zh_CN/docs/Getstarted" },
-              { text: "create your first app", link: "/i18n/zh_CN/docs/Createyour" },
+              { text: "快速开始", link: "/i18n/zh_CN/docs/Getstarted" },
+              { text: "创建你的第一个App", link: "/i18n/zh_CN/docs/Createyour" },
             ],
         },
     ],

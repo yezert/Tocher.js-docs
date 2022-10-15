@@ -91,11 +91,12 @@ layout: home
   }
 
   .gts {
+    font-size:15px;
     margin:10px;
     transition:ease-in-out .3s;
     color:#efefff;
     background-color:rgb(0,175,255);
-    padding:5px;
+    padding:12px;
     opacity:70%;
     border-radius:7px
   }
@@ -105,11 +106,12 @@ layout: home
   }
 
   .gtb {
+    padding:12px;
+    font-size:15px;
     margin:10px;
     transition:ease-in-out .3s;
     color:#efefff;
     background-color:rgb(30,120,20);
-    padding:5px;
     opacity:70%;
     border-radius:7px
   }
