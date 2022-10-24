@@ -1,5 +1,5 @@
 export const nav = [
-  { text: "Getting Started", link: "/ain/Getstarted" },
+  { text: "Getting Started", link: "/main/Getstarted" },
   {
     text: "Language",
     items: [
